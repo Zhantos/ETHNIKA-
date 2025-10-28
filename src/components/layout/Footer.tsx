@@ -1,4 +1,4 @@
-import { Mail, Phone, MapPin, Facebook, Instagram, Twitter } from 'lucide-react';
+import { Mail, Phone, MapPin, Facebook, Instagram, X } from 'lucide-react';
 
 export function Footer() {
   return (
@@ -102,7 +102,7 @@ export function Footer() {
                 className="bg-[#80400B] hover:bg-[#ED7014] p-2 rounded-full transition-colors"
                 aria-label="Twitter"
               >
-                <Twitter size={20} />
+                <X size={20} />
               </a>
             </div>
             <div>
